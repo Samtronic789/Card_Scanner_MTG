@@ -20,7 +20,7 @@ The CardScannerApp is specifically built to streamline the process of filtering 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/CardScannerApp.git
+   git clone https://github.com/Samtronic789/Card_Scanner_MTG.git
    cd CardScannerApp
    ```
 2. Create a virtual environment (optional but recommended):
